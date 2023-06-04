@@ -1,8 +1,3 @@
-#Objective1 
-#k-means clustering
-#Sanjula Jayawardana w1790259
-
-
 
 ###########loarding libaries 
 
